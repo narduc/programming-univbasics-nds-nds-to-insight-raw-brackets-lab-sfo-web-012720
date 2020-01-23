@@ -24,5 +24,5 @@ def directors_totals(nds)
   hash['Stephen Spielberg'] = 1357566430
   hash['Russo Brothers'] = 2281002470
   hash['James Cameron'] = 2571020373
-  hash
+  hash['Spike Lee'] = 
 end
