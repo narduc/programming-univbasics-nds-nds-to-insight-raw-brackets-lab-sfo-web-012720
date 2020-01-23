@@ -22,6 +22,6 @@ def directors_totals(nds)
   # nil
   hash = {}
   hash['Stephen Spielberg'] = 1357566430
-  
+  hash['Russo Brothers'] = 
   hash
 end
