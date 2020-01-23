@@ -27,7 +27,8 @@ def directors_totals(nds)
   hash['Spike Lee'] = 256624217
   hash['Wachowski Siblings'] = 806180282
   hash['Robert Zemeckis'] = 1273838385
-  hash['Quentin Tarantino'] = 
+  hash['Quentin Tarantino'] = 662738268
+  hash
   
   
   hash
