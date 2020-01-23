@@ -23,5 +23,6 @@ def directors_totals(nds)
   hash = {}
   hash['Stephen Spielberg'] = 1357566430
   hash['Russo Brothers'] = 2281002470
+  hash['James Cameron'] = 
   hash
 end
