@@ -21,5 +21,5 @@ def directors_totals(nds)
   
   # nil
   hash = {}
-  hash[:]
+  hash[:Stephen S]
 end
